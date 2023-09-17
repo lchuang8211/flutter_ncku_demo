@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/notification_template_part_chronometer.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/notification_template_part_time.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/notification_action.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/notification_action_tombstone.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/notification_template_icon_group.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout/custom_dialog.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout/custom_dialog.xml"
+    }
+]

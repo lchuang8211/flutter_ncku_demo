@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout-v21/notification_template_custom_big.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout-v21/notification_action_tombstone.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout-v21/notification_action.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "yeniellandestoy.native_shared_preferences-merged_res-8:/layout-v21/notification_template_icon_group.xml",
+        "source": "yeniellandestoy.native_shared_preferences-core-1.6.0-2:/layout-v21/notification_template_icon_group.xml"
+    }
+]

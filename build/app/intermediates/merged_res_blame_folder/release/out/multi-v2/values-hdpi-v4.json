@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "hlc.ramen.flutter_ncku_test.app-mergeReleaseResources-29:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/lchuang/.gradle/caches/transforms-3/b81d6d242077507e7e38aaa45cef434d/transformed/appcompat-1.5.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

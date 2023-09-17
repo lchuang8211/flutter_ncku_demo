@@ -1,0 +1,12 @@
+yeniellandestoy.native_shared_preferences-jetified-window-1.0.0-beta04-0 /Users/lchuang/.gradle/caches/transforms-3/4da34b61bfffbabbbeb4bb7e99380ec8/transformed/jetified-window-1.0.0-beta04/res
+yeniellandestoy.native_shared_preferences-jetified-window-java-1.0.0-beta04-1 /Users/lchuang/.gradle/caches/transforms-3/dfab8c058394a259012b3044da68a292/transformed/jetified-window-java-1.0.0-beta04/res
+yeniellandestoy.native_shared_preferences-core-1.6.0-2 /Users/lchuang/.gradle/caches/transforms-3/ef017f5c6bc41ec876bcc2a800f49435/transformed/core-1.6.0/res
+yeniellandestoy.native_shared_preferences-jetified-annotation-experimental-1.1.0-3 /Users/lchuang/.gradle/caches/transforms-3/f2f77254ee9a0ea4c80416bdd72f73ac/transformed/jetified-annotation-experimental-1.1.0/res
+yeniellandestoy.native_shared_preferences-pngs-4 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/generated/res/pngs/release
+yeniellandestoy.native_shared_preferences-resValues-5 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/generated/res/resValues/release
+yeniellandestoy.native_shared_preferences-rs-6 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/generated/res/rs/release
+yeniellandestoy.native_shared_preferences-mergeReleaseResources-7 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/intermediates/incremental/release/mergeReleaseResources/merged.dir
+yeniellandestoy.native_shared_preferences-mergeReleaseResources-8 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+yeniellandestoy.native_shared_preferences-merged_res-9 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/native_shared_preferences/intermediates/merged_res/release
+yeniellandestoy.native_shared_preferences-main-10 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/native_shared_preferences-2.0.7/android/src/main/res
+yeniellandestoy.native_shared_preferences-release-11 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/native_shared_preferences-2.0.7/android/src/release/res

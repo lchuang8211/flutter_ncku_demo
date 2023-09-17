@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "hlc.ramen.flutter_ncku_test.app-mergeReleaseResources-29:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/lchuang/.gradle/caches/transforms-3/b81d6d242077507e7e38aaa45cef434d/transformed/appcompat-1.5.1/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,397",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,392,584"
+                    }
+                }
+            ]
+        }
+    ]
+}

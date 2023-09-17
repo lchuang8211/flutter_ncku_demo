@@ -1,0 +1,12 @@
+com.example.appsettings.app_settings-jetified-window-1.0.0-beta04-0 /Users/lchuang/.gradle/caches/transforms-3/4da34b61bfffbabbbeb4bb7e99380ec8/transformed/jetified-window-1.0.0-beta04/res
+com.example.appsettings.app_settings-jetified-window-java-1.0.0-beta04-1 /Users/lchuang/.gradle/caches/transforms-3/dfab8c058394a259012b3044da68a292/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.appsettings.app_settings-core-1.6.0-2 /Users/lchuang/.gradle/caches/transforms-3/ef017f5c6bc41ec876bcc2a800f49435/transformed/core-1.6.0/res
+com.example.appsettings.app_settings-jetified-annotation-experimental-1.1.0-3 /Users/lchuang/.gradle/caches/transforms-3/f2f77254ee9a0ea4c80416bdd72f73ac/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.appsettings.app_settings-pngs-4 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/generated/res/pngs/release
+com.example.appsettings.app_settings-resValues-5 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/generated/res/resValues/release
+com.example.appsettings.app_settings-rs-6 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/generated/res/rs/release
+com.example.appsettings.app_settings-mergeReleaseResources-7 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.appsettings.app_settings-mergeReleaseResources-8 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.appsettings.app_settings-merged_res-9 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app_settings/intermediates/merged_res/release
+com.example.appsettings.app_settings-main-10 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.3.1/android/src/main/res
+com.example.appsettings.app_settings-release-11 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/app_settings-4.3.1/android/src/release/res

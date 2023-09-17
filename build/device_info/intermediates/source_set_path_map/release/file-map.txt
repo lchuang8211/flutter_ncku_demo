@@ -1,0 +1,12 @@
+io.flutter.plugins.deviceinfo.device_info-jetified-window-1.0.0-beta04-0 /Users/lchuang/.gradle/caches/transforms-3/4da34b61bfffbabbbeb4bb7e99380ec8/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-jetified-window-java-1.0.0-beta04-1 /Users/lchuang/.gradle/caches/transforms-3/dfab8c058394a259012b3044da68a292/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.deviceinfo.device_info-core-1.6.0-2 /Users/lchuang/.gradle/caches/transforms-3/ef017f5c6bc41ec876bcc2a800f49435/transformed/core-1.6.0/res
+io.flutter.plugins.deviceinfo.device_info-jetified-annotation-experimental-1.1.0-3 /Users/lchuang/.gradle/caches/transforms-3/f2f77254ee9a0ea4c80416bdd72f73ac/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.deviceinfo.device_info-pngs-4 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/generated/res/pngs/release
+io.flutter.plugins.deviceinfo.device_info-resValues-5 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/generated/res/resValues/release
+io.flutter.plugins.deviceinfo.device_info-rs-6 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/generated/res/rs/release
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-7 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-8 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.deviceinfo.device_info-merged_res-9 /Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/device_info/intermediates/merged_res/release
+io.flutter.plugins.deviceinfo.device_info-main-10 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/src/main/res
+io.flutter.plugins.deviceinfo.device_info-release-11 /opt/homebrew/Caskroom/flutter/2.5.3/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.3/android/src/release/res

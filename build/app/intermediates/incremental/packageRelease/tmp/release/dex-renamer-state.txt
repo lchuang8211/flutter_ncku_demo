@@ -1,0 +1,4 @@
+#Fri Sep 15 11:36:18 CST 2023
+base.0=/Users/lchuang/AndroidStudioProjects/flutter_ncku_test/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
